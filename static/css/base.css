@@ -31,8 +31,8 @@ body {
     width: fit-content;
 }
 
-.shop-now-button {
-    background: black;
+.see-our-tour-button {
+    background: #0e0336;
     color: white;
     min-width: 260px;
 }
@@ -58,6 +58,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.gift-notice {
+    background:#09002b !important;
 }
 
 /* -------------------------------- Media Queries */
